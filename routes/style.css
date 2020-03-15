@@ -1,0 +1,136 @@
+#header{
+    border: 1px solid #999999;
+    padding: 50px;
+    text-align: left;
+    font-family: Helvetica;
+    background-image: url("images/cover20.png"); text-align: center;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: rgb(177, 175, 175);
+}
+
+#body{
+    display: block;
+    text-align: center;
+}
+
+#menu {
+    background-color: #ccc;
+    padding: 5px 15px;
+    text-align: left;
+}
+
+#menu li {
+    list-style: none;
+    padding: 5px;
+    font-weight: lighter;
+    font-family: Helvetica;
+    display: inline;
+    text-align: center;
+}
+
+div{
+    width: 960px;
+    margin: 15px auto;
+    border: 1px solid black;
+}
+
+h1{
+    font-size: 30px;
+    font-family: Helvetica;
+    font-weight: lighter;
+}
+
+h2{
+    font-size: 20px;
+    font-family: Helvetica;
+    font-weight: lighter;
+}
+
+h3{
+    font-size: 15px;
+    font-family: Helvetica;
+    font-weight: lighter;
+}
+
+a{
+    color: rgb(34, 81, 182);
+    font-size: 15px;
+    font-family: Arial;
+}
+
+#img1{
+    width: 60px; height: 60px;
+    text-align: right;
+}
+
+#header h2{
+    color: rgb(124, 122, 122);
+}
+
+footer{
+    clear: both;
+}
+
+#mine{
+    border: 1px solid black;
+    width: 300px;
+    float: left;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    height: 360.7px;
+    margin-left: 17px;
+}
+
+#html{
+    border: 1px solid black;
+    width: 300px;
+    float: left;
+    margin: 10px;
+    margin-top: 20px;
+    height: 360.7px;
+    padding-bottom: 10px;
+}
+
+#fort{
+    border: 1px solid black;
+    width: 300px;
+    float: left;
+    margin-top: 20px;
+    padding-bottom: 10px;
+    height: 360.7px;
+    margin-right: 17px;
+}
+
+#footer{
+    clear: both;
+    text-align: center;
+    margin-bottom: 0px;
+}
+
+#links ul{
+    text-align: center;
+}
+
+#sid{
+    float: left;
+    border: 1px solid black;
+    width: 940px;
+    margin: 10px;
+    background-color: #23BCE9;
+}
+
+#ulli{
+    text-align: center;
+}
+
+#exhtml{
+    padding: 10px;
+}
+
+p{
+    font-size: 15px;
+    font-family: Arial;
+    font-weight: lighter;
+}
